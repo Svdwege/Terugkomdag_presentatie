@@ -27,6 +27,8 @@ jobs:
 
       - name: Setup @antfu/ni
         run: npm i -g @antfu/ni
+      - name: change dir
+        run: cd /${{github.event.repository.name}}
 
       - name: Install dependencies
         run: nci -w TerugkomDag/
