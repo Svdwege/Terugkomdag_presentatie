@@ -7,7 +7,7 @@ layout: cover
 class: text-white
 coverAuthor: Sjoerd van de Wege
 coverAuthorUrl: https://github.com/SvdWege
-coverBackgroundUrl: ./assets/background.jpg
+coverBackgroundUrl: /background.jpg
 coverBackgroundSource: unsplash
 coverBackgroundSourceUrl: https://unsplash.com/photos/black-typewriter-d34DtRp1bqo
 #coverBackgroundSource: unsplash
@@ -63,7 +63,7 @@ Deze 3 sub afdelingen zijn Mechanical(3) Electical (3) en embedde(2). Daarnaast 
 transition: fade-out
 layout: figure-side
 figureCaption: ZUBoard 1CG by AVNet
-figureUrl: ./assets/zuboard.jpg
+figureUrl: /zuboard.jpg
 ---
 
 # De opdracht 
