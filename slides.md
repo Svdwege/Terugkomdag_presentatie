@@ -136,3 +136,16 @@ nadat de rtl gemaakt is wordt dat geexporteerd naar Vitis waar de software gebou
 
 Voor versie beheer wordt git gebruikt via de gitlab Instantie van het bedrijf.
 -->
+
+
+---
+transition: fade-out
+layout: center
+---
+
+# Zijn er nog vragen?
+
+---
+transition: fade-out
+layout: end
+---
