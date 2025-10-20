@@ -28,13 +28,13 @@ jobs:
       - name: Setup @antfu/ni
         run: npm i -g @antfu/ni
       - name: change dir
-        run: cd /${{github.event.repository.name}}
+        run: cd ./${{github.event.repository.name}}
 
       - name: Install dependencies
         run: nci -w TerugkomDag/
 
       - name: Build
-        run: nr build --base /${{github.event.repository.name}}/TerugkomDag
+        run: nr build --base ./TerugkomDag
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
