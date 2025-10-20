@@ -1,0 +1,15 @@
+= Notes
+
+    
+
+bedrijf:
+Intero Integrity Services BV specializes in providing services to the oil and gas industry.
+The Service Line Inspection provides a complete package of services around pipeline inspection,
+including In-Line Inspection (ILI) of pipelines using inspection robots, aka ILI tools. 
+
+
+Activities:
+- creating a proof of concept for the zynq Ultrascale+ mpsoc platform 
+- 
+
+
