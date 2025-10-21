@@ -12,6 +12,7 @@ coverBackgroundSource: unsplash
 coverBackgroundSourceUrl: https://unsplash.com/photos/black-typewriter-d34DtRp1bqo
 #coverBackgroundSource: unsplash
 #coverBackgroundSourceUrl: ./assets/background.jpg
+coverDate: 2025-10-22
 # some information about your slides (markdown enabled)
 title: Terugkomdag 
 info: |
