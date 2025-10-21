@@ -41,7 +41,7 @@ transition: fade-out
 ---
 transition: fade-out
 layout: figure-side
-figureUrl: /interologo.jpg
+figureUrl: /intero_logo.jpg
 ---
 
 # Het bedrijf
