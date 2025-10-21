@@ -40,6 +40,8 @@ transition: fade-out
 
 ---
 transition: fade-out
+layout: figure-side
+figureUrl: /interologo.jpg
 ---
 
 # Het bedrijf
